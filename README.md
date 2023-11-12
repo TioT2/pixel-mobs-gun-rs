@@ -1,2 +1,2 @@
-# pixel-mobs-guns-rs
-PixelsMobsGuns original game Rust-based multiplatform version
+# pixel-mobs-gun-rs
+pixelsMobsGun original game rust-based multiplatform version
